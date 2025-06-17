@@ -1,0 +1,11 @@
+name: LearnProject
+version: '1.0'
+main: org.plugins.shopkeeper.ShopKeeper
+api-version: '1.21'
+commands:
+  ride:
+    description: ride an entity
+  addtrade:
+    description: add a trade
+  gui:
+    description: ouvre le menu de trader
